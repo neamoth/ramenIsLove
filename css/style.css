@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Sassy+Frass&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Zetta:wght@900&display=swap');
+
+
+body{
+    margin: 0;
+    padding: 0; 
+    background-color: #e67e22;
+    text-align: center;
+}
+
+img{
+    position: absolute;
+}
+
+.bg{
+    height: fit-content;
+    width: fit-content;
+}
+
+.bgRamen1{
+    width: 5rem;
+    height: 5rem;
+    opacity: 0.2;
+    top: 3rem;
+    left: 50rem;
+}
+.bgRamen2{
+    width: 5rem;
+    height: 5rem;
+    opacity: 0.2;
+    right: 20rem;
+    top: 20rem; 
+    bottom: 10rem;
+}
+.bgRamen3{
+    width: 5rem;
+    height: 5rem;
+    opacity: 0.2;
+    left: 10rem;
+}
+.bgRamen4{
+    width: 5rem;
+    height: 5rem;
+    opacity: 0.2;
+    right: 10rem;
+    bottom: 2rem;
+}
+.bgRamen5{
+    width: 5rem;
+    height: 5rem;
+    opacity: 0.2;
+    bottom: 5rem;
+    left: 15rem;
+}
+.bgRamen6{
+    width: 5rem;
+    height: 5rem;
+    opacity: 0.2;
+    bottom: 7rem;
+    left: 40rem;
+}
+.bgRamen7{
+    width: 5rem;
+    height: 5rem;
+    opacity: 0.2;
+    top: 5rem;
+    left: 29rem;
+}
+
+.logo{
+    position: absolute;
+    font-family: 'Lexend Zetta', sans-serif;
+    color: #dff9fb;
+    font-size: 2rem;
+    left: 2rem;
+    top: 0.3rem;
+}
+.narutoRamen{
+    height: 20rem;
+    width: 20.5rem;
+    top: 3rem;
+    right: 3rem;
+}
+
+.chefHead{
+    height: 10rem;
+    width: 10rem;
+    left: 25rem;
+    top: 11.5rem;
+}
+
+.sc{
+    color: #ecf0f1;
+}
+h1{
+    font-size: 5rem;
+    margin-top: 15rem;
+    color: #2c3e50;
+}
+.r{
+    font-size: 6.5rem;
+    font-family: 'Sassy Frass', cursive;
+}
+
+h3{
+    margin-top: 0;
+    color: #dff9fb;
+    position: absolute;
+    font-size: 1.5rem;
+    top: 21.5rem;
+    left: 45rem;
+    letter-spacing: 1rem;
+}
+
+.ramen1{
+    height: 15rem;
+    width: 15rem;
+    right: 20rem;
+    bottom: 1rem;
+}
+.ramen2{
+    height: 15rem;
+    width: 15rem;
+    left: 20rem;
+    bottom: 2.5rem;
+}
